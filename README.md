@@ -1,35 +1,41 @@
 <div align="center">
-  <img src="michel_site_logo.png" alt="Michel Logo" width="100"/>
-  <h1>Hi there, I'm Michel 👋</h1>
-  <p><b>Software Engineering Student | Web & IoT Developer</b></p>
+  <img src="michel_site_logo.png" alt="Michel Logo" width="70" />
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Michel;Software+Engineering+Undergraduate;Web+%26+IoT+Developer" alt="Typing SVG" />
+  </a>
+  <br/>
 </div>
 
 ---
+I'm a 3rd-year software engineering undergraduate who thrives at the intersection of digital and physical tech. Instead of just writing code that lives on a screen, I like building systems I can actually interact with—whether that's designing a sleek, responsive front-end or wiring up an ESP32 to automate my environment. 
 
-I'm passionate about building scalable web applications and bringing custom hardware to life. I absolutely love ESP development and enjoy bridging the gap between software and the physical world through custom IoT solutions.
+### Current Focus
 
-### 🚀 What I'm Up To
+* **Building:** Exploring new concepts and working on fresh personal projects to push my technical limits.
+* **Tinkering:** Smart Home Automation, prototyping custom microcontroller circuits, and fine-tuning lighting controls.
+* **Learning:** Deepening my knowledge in modern full-stack development (React/Next.js) and experimenting with advanced IoT hardware.
 
-- 🔭 **Currently leading:** **SE-23**, a collaborative academic software engineering group project.
-- ⚡ **Currently tinkering with:** **Smart Home Automation**, building custom ESP32 circuits, lighting controls, and automations.
-- 🎓 **Focusing on:** Full-stack development (React/Next.js) and advanced microcontrollers.
-
-### 💻 Tech Stack
+### Tech Stack
 
 **Web Development** <br>
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+<img src="https://img.shields.io/badge/Next.js-252525?style=flat-square&logo=next.js&logoColor=28C76F" alt="Next JS" />
+<img src="https://img.shields.io/badge/React-252525?style=flat-square&logo=react&logoColor=28C76F" alt="React" />
+<img src="https://img.shields.io/badge/Firebase-252525?style=flat-square&logo=firebase&logoColor=28C76F" alt="Firebase" />
 
 **Hardware & IoT** <br>
-![Espressif](https://img.shields.io/badge/ESP32-E7352C.svg?style=flat-square&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/ESP32-252525?style=flat-square&logo=espressif&logoColor=EF4444" alt="Espressif" />
+<img src="https://img.shields.io/badge/C++-252525?style=flat-square&logo=c%2B%2B&logoColor=EF4444" alt="C++" />
 
 **Tools** <br>
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/VS_Code-252525?style=flat-square&logo=visual%20studio%20code&logoColor=2563EB" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-252525?style=flat-square&logo=git&logoColor=2563EB" alt="Git" />
 
-### 📫 Let's Connect
+### Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=white)](https://portofolio-amber-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-ruwishka/)
+<a href="https://portofolio-amber-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=28C76F" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/michel-ruwishka/"><img src="https://img.shields.io/badge/LinkedIn-252525?style=flat-square&logo=linkedin&logoColor=2563EB" alt="LinkedIn" /></a>
+<br>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=2000&color=EF4444&left=true&vCenter=true&width=500&lines=Actively+seeking+Software+Engineering+Internships;Available+for+new+opportunities!" alt="Internship Status" />
+  </a>
