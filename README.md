@@ -18,9 +18,15 @@ I'm a 3rd-year software engineering undergraduate who thrives at the intersectio
 
 ### Tech Stack
 
+**Languages** <br>
+<img src="https://img.shields.io/badge/JavaScript-252525?style=flat-square&logo=javascript&logoColor=28C76F" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-252525?style=flat-square&logo=python&logoColor=2563EB" alt="Python" />
+<img src="https://img.shields.io/badge/Java-252525?style=flat-square&logo=openjdk&logoColor=2563EB" alt="Java" />
+
 **Web Development** <br>
 <img src="https://img.shields.io/badge/Next.js-252525?style=flat-square&logo=next.js&logoColor=28C76F" alt="Next JS" />
 <img src="https://img.shields.io/badge/React-252525?style=flat-square&logo=react&logoColor=28C76F" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-252525?style=flat-square&logo=node.js&logoColor=28C76F" alt="Node.js" />
 <img src="https://img.shields.io/badge/Firebase-252525?style=flat-square&logo=firebase&logoColor=28C76F" alt="Firebase" />
 
 **Hardware & IoT** <br>
