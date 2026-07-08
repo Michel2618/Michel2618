@@ -41,7 +41,4 @@ I'm a 3rd-year software engineering undergraduate who thrives at the intersectio
 
 <a href="https://portofolio-amber-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=28C76F" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/michel-ruwishka/"><img src="https://img.shields.io/badge/LinkedIn-252525?style=flat-square&logo=linkedin&logoColor=2563EB" alt="LinkedIn" /></a>
-<br>
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=2000&color=EF4444&left=true&vCenter=true&width=500&lines=Actively+seeking+Software+Engineering+Internships;Available+for+new+opportunities!" alt="Internship Status" />
-  </a>
+
