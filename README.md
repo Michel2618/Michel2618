@@ -39,6 +39,6 @@ I'm a 3rd-year software engineering undergraduate who thrives at the intersectio
 
 ### Connect
 
-<a href="https://portofolio-amber-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=28C76F" alt="Portfolio" /></a>
+<a href="https://michel.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=28C76F" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/michel-ruwishka/"><img src="https://img.shields.io/badge/LinkedIn-252525?style=flat-square&logo=linkedin&logoColor=2563EB" alt="LinkedIn" /></a>
 
